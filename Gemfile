@@ -35,5 +35,6 @@ group :test do
   gem 'turn', '0.8.2', :require => false
 end
 
+gem 'mongrel', '1.2.0.pre2' 
 gem 'spree'
 gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'

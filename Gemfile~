@@ -36,3 +36,4 @@ group :test do
 end
 
 gem 'spree'
+gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
